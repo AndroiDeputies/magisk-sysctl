@@ -1,0 +1,5 @@
+v1
+    - Initial release
+
+v1.1
+    - Tweaks will now be applied at boot
