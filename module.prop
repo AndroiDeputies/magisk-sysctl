@@ -6,3 +6,4 @@ author=LeoLawliet
 description=This module installs a Systemless sysctl.conf I optimized for great performance and battery life. 
 
 You can go tweak the sysctl.conf file from inside the module by using a file manager like Root Explorer or ES File Manager. 
+template=2
