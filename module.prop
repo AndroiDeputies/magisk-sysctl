@@ -1,7 +1,7 @@
 id=sysctl
 name=Systemless sysctl.conf
-version=v1.1
-versionCode=1
+version=v1.2
+versionCode=1.2
 author=LeoLawliet
 description=This module installs a Systemless sysctl.conf I optimized for great performance and battery life. 
 
